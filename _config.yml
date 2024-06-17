@@ -22,7 +22,7 @@ title: Notes on Different Things
 email: murray.james.data@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   This is a a collection of things that I will use as a reference. It is things that relate to Data Science Generally. Some of the detailed topics will include Python related items, how to present information with MarkDown.  
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username: jamesds13 
