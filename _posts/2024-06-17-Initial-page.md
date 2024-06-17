@@ -2,7 +2,7 @@
 payout: post 
 title: Initial Thoughts on a Page
 author: James M 
-date: 2024-06 
+date:   2024-06-17 19:16:20 +1000
 ---
 
 # First Header 
